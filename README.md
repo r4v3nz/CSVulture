@@ -1,6 +1,6 @@
 # ![Logo](assets/CSVulture.png) CSVulture
 
-This Simple Python project allows users to load a CSV file, select specific columns to save, and rename those columns before saving them as a new CSV file. It uses the `polars` library for handling CSV data and `tkinter` for the graphical user interface.
+This simple Python project allows users to load a CSV file, select specific columns to save, and rename those columns before saving them as a new CSV file. It uses the `polars` library for handling CSV data and `tkinter` for the graphical user interface.
 
 ## Features
 
