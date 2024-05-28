@@ -20,8 +20,8 @@ This simple Python project allows users to load a massive CSV file, select speci
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/r4v3nz/csvulture.git
-   cd csvulture
+   git clone https://github.com/r4v3nz/CSVulture.git
+   cd CSVulture
    ```
 
 2. Install the required Python packages:
