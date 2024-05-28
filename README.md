@@ -6,10 +6,9 @@ This simple Python project allows users to load a massive CSV file, select speci
 
 ## Features
 
-- Load a CSV file and display its columns.
+- Load a massive CSV file and display its columns.
 - Select columns to save to a new CSV file.
 - Rename selected columns.
-- Validate new column names to ensure they are not empty, do not contain invalid characters, and are unique.
 
 ## Requirements
 
